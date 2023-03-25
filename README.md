@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) C# Eğitimi Recursive ve Extension Metotlar ders uygulaması. İçerisinde bir adet README dosyası ve proje dosyaları bulunmaktadır.
